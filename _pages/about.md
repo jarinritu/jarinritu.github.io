@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Electrical and Computer Engineering at Texas A&M University, working in the Advanced Vision and Learning Lab with Dr. Joshua Peeples. My research focuses on machine learning and computer vision for audio and image analysis, developing texture-informed knowledge distillation to transfer foundation model knowledge to lightweight models. I collaborate with MIT Lincoln Laboratory and Baylor University on sonar analysis and microscopy-based toxic exposure studies.
+I am a Ph.D. candiate in Electrical and Computer Engineering at Texas A&M University, , working in the [Advanced Vision and Learning Lab](https://avll.engr.tamu.edu/) with Dr. Joshua Peeples. My research focuses on machine learning and computer vision for audio and image analysis, developing texture-informed knowledge distillation to transfer foundation model knowledge to lightweight models. I collaborate with MIT Lincoln Laboratory and Baylor University on sonar analysis and microscopy-based toxic exposure studies.
+
+
 
 A data-driven personal website
 ======
